@@ -1,7 +1,7 @@
 ---
-title: "Hi There"
-blurb: "Welcome to your new Hugo site."
+title: Tervetuloa tälle sivustolle.
+blurb: Tämä sivun tekemiseen on käytetty HUGO + Netlify CMS yhdistelmää.
 section:
-    heading: "A Subsection"
-    text: "You can put even more content in here."
+  heading: Sivua rakennetaan.
+  text: Vieraile myöhemmin uudestaan.
 ---
