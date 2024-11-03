@@ -1,5 +1,4 @@
 ---
-title: "About"
+title: Tietoja
 ---
-
-Here's a bit about me.
+Tämä sivu on julkaistu 03.11.2024.
