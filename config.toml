@@ -3,7 +3,7 @@ title = "EZPC.fi"
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name = "Viestit"
+    name = "Sivut"
     url = "/posts"
     weight = 10
 
